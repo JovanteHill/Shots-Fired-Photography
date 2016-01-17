@@ -1,0 +1,21 @@
+.jumboform {
+text-align: center;
+}
+.jumboform legend {
+	color: white;
+	font-family: Times New Roman;
+}
+.jumboform h4 {
+	font-family: Times New Roman;
+	color: white;
+}
+.jumboform span{
+	color: white;
+	font-family: Times New Roman;
+}
+.jumboform input{
+	margin-bottom: 60px;
+}
+.jumboform form{
+		padding-bottom: 35px;
+}
